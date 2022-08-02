@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SP.LABII.WinFormsApp", "SP.LABII.WinFormsApp\SP.LABII.WinFormsApp.csproj", "{26435B8D-5FFB-4D09-ADCB-1990448F617C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesSP", "EntidadesSP\EntidadesSP.csproj", "{A3DCA605-C49D-45B6-B92F-1AA8B9A70F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26435B8D-5FFB-4D09-ADCB-1990448F617C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26435B8D-5FFB-4D09-ADCB-1990448F617C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26435B8D-5FFB-4D09-ADCB-1990448F617C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26435B8D-5FFB-4D09-ADCB-1990448F617C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DCA605-C49D-45B6-B92F-1AA8B9A70F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DCA605-C49D-45B6-B92F-1AA8B9A70F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DCA605-C49D-45B6-B92F-1AA8B9A70F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DCA605-C49D-45B6-B92F-1AA8B9A70F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C23849E-52A5-401C-B42A-BC5A5E5BEA7E}
+	EndGlobalSection
+EndGlobal

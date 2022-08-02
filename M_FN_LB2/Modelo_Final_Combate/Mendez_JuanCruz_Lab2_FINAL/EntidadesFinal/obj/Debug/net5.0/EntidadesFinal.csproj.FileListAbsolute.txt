@@ -1,0 +1,12 @@
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\bin\Debug\net5.0\EntidadesFinal.deps.json
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\bin\Debug\net5.0\EntidadesFinal.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\bin\Debug\net5.0\ref\EntidadesFinal.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\bin\Debug\net5.0\EntidadesFinal.pdb
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\obj\Debug\net5.0\EntidadesFinal.csproj.AssemblyReference.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\obj\Debug\net5.0\EntidadesFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\obj\Debug\net5.0\EntidadesFinal.AssemblyInfoInputs.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\obj\Debug\net5.0\EntidadesFinal.AssemblyInfo.cs
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\obj\Debug\net5.0\EntidadesFinal.csproj.CoreCompileInputs.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\obj\Debug\net5.0\EntidadesFinal.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\obj\Debug\net5.0\ref\EntidadesFinal.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_Final_Combate\Mendez_JuanCruz_Lab2_FINAL\EntidadesFinal\obj\Debug\net5.0\EntidadesFinal.pdb

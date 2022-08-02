@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Files/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Files.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Files/1.0.0": {
+      "type": "project",
+      "path": "../Files/Files.csproj",
+      "msbuildProject": "../Files/Files.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Files >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\caand\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\CoreLibraries\\CoreLibraries.csproj",
+      "projectName": "CoreLibraries",
+      "projectPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\CoreLibraries\\CoreLibraries.csproj",
+      "packagesPath": "C:\\Users\\caand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\CoreLibraries\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\caand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\Files\\Files.csproj": {
+              "projectPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\Files\\Files.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

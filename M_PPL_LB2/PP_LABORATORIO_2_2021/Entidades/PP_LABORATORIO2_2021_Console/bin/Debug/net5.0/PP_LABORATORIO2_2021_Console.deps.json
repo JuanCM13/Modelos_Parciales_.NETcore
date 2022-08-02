@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PP_LABORATORIO2_2021_Console/1.0.0": {
+        "dependencies": {
+          "PP_LABORATORIO2_2021": "1.0.0"
+        },
+        "runtime": {
+          "PP_LABORATORIO2_2021_Console.dll": {}
+        }
+      },
+      "PP_LABORATORIO2_2021/1.0.0": {
+        "runtime": {
+          "PP_LABORATORIO2_2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PP_LABORATORIO2_2021_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PP_LABORATORIO2_2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

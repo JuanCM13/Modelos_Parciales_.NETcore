@@ -1,0 +1,12 @@
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\bin\Debug\net5.0\PP_LABORATORIO2_2021.deps.json
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\bin\Debug\net5.0\PP_LABORATORIO2_2021.dll
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\bin\Debug\net5.0\ref\PP_LABORATORIO2_2021.dll
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\bin\Debug\net5.0\PP_LABORATORIO2_2021.pdb
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\obj\Debug\net5.0\PP_LABORATORIO2_2021.csproj.AssemblyReference.cache
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\obj\Debug\net5.0\PP_LABORATORIO2_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\obj\Debug\net5.0\PP_LABORATORIO2_2021.AssemblyInfoInputs.cache
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\obj\Debug\net5.0\PP_LABORATORIO2_2021.AssemblyInfo.cs
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\obj\Debug\net5.0\PP_LABORATORIO2_2021.csproj.CoreCompileInputs.cache
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\obj\Debug\net5.0\PP_LABORATORIO2_2021.dll
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\obj\Debug\net5.0\ref\PP_LABORATORIO2_2021.dll
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2021\Entidades\PP_LABORATORIO2_2021\obj\Debug\net5.0\PP_LABORATORIO2_2021.pdb

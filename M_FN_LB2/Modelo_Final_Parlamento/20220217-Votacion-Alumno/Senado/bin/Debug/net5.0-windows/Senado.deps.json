@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Senado/1.0.0": {
+        "dependencies": {
+          "CoreLibraries": "1.0.0"
+        },
+        "runtime": {
+          "Senado.dll": {}
+        }
+      },
+      "CoreLibraries/1.0.0": {
+        "dependencies": {
+          "Files": "1.0.0"
+        },
+        "runtime": {
+          "CoreLibraries.dll": {}
+        }
+      },
+      "Files/1.0.0": {
+        "runtime": {
+          "Files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

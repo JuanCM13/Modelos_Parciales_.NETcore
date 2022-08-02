@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_Forms\\PP_LABORATORIO_2_Forms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria.csproj",
+        "projectName": "PP_LABORATORIO_2_2021_Jardineria",
+        "projectPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria.csproj",
+        "packagesPath": "C:\\Users\\caand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_Forms\\PP_LABORATORIO_2_Forms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_Forms\\PP_LABORATORIO_2_Forms.csproj",
+        "projectName": "PP_LABORATORIO_2_Forms",
+        "projectPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_Forms\\PP_LABORATORIO_2_Forms.csproj",
+        "packagesPath": "C:\\Users\\caand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_Forms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria.csproj": {
+                "projectPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_PPL_LB2\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria\\PP_LABORATORIO_2_2021_Jardineria.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

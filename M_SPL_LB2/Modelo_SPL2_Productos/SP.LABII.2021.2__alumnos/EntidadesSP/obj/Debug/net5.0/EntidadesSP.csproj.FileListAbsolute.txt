@@ -1,0 +1,12 @@
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\bin\Debug\net5.0\EntidadesSP.deps.json
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\bin\Debug\net5.0\EntidadesSP.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\bin\Debug\net5.0\ref\EntidadesSP.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\bin\Debug\net5.0\EntidadesSP.pdb
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\obj\Debug\net5.0\EntidadesSP.csproj.AssemblyReference.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\obj\Debug\net5.0\EntidadesSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\obj\Debug\net5.0\EntidadesSP.AssemblyInfoInputs.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\obj\Debug\net5.0\EntidadesSP.AssemblyInfo.cs
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\obj\Debug\net5.0\EntidadesSP.csproj.CoreCompileInputs.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\obj\Debug\net5.0\EntidadesSP.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\obj\Debug\net5.0\ref\EntidadesSP.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Productos\SP.LABII.2021.2__alumnos\EntidadesSP\obj\Debug\net5.0\EntidadesSP.pdb

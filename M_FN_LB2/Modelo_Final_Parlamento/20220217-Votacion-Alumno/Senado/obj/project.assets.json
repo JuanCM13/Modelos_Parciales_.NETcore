@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "CoreLibraries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Files": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CoreLibraries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreLibraries.dll": {}
+        }
+      },
+      "Files/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Files.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreLibraries/1.0.0": {
+      "type": "project",
+      "path": "../CoreLibraries/CoreLibraries.csproj",
+      "msbuildProject": "../CoreLibraries/CoreLibraries.csproj"
+    },
+    "Files/1.0.0": {
+      "type": "project",
+      "path": "../Files/Files.csproj",
+      "msbuildProject": "../Files/Files.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "CoreLibraries >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\caand\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\Senado\\Senado.csproj",
+      "projectName": "Senado",
+      "projectPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\Senado\\Senado.csproj",
+      "packagesPath": "C:\\Users\\caand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\Senado\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\caand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\CoreLibraries\\CoreLibraries.csproj": {
+              "projectPath": "C:\\Users\\caand\\Desktop\\Modelos_Parciales_2doCtuatri_C#\\M_FN_LB2\\Modelo_Final_Parlamento\\20220217-Votacion-Alumno\\CoreLibraries\\CoreLibraries.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

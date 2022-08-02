@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SP.LABII.WinFormsApp/1.0.0": {
+        "dependencies": {
+          "EntidadesSP": "1.0.0"
+        },
+        "runtime": {
+          "SP.LABII.WinFormsApp.dll": {}
+        }
+      },
+      "EntidadesSP/1.0.0": {
+        "runtime": {
+          "EntidadesSP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP.LABII.WinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesSP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

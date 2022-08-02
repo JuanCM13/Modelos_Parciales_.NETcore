@@ -1,0 +1,12 @@
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.deps.json
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.pdb
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.AssemblyReference.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfoInputs.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfo.cs
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.CoreCompileInputs.cache
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\caand\Desktop\ModeloAlumnos_SPL2\Modelo_SPL2_Alumnos\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.pdb

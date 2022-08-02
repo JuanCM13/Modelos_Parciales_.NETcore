@@ -1,0 +1,12 @@
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\bin\Debug\net5.0\PP_LABORATORIO_2_2020.deps.json
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\bin\Debug\net5.0\PP_LABORATORIO_2_2020.dll
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\bin\Debug\net5.0\ref\PP_LABORATORIO_2_2020.dll
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\bin\Debug\net5.0\PP_LABORATORIO_2_2020.pdb
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\obj\Debug\net5.0\PP_LABORATORIO_2_2020.csproj.AssemblyReference.cache
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\obj\Debug\net5.0\PP_LABORATORIO_2_2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\obj\Debug\net5.0\PP_LABORATORIO_2_2020.AssemblyInfoInputs.cache
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\obj\Debug\net5.0\PP_LABORATORIO_2_2020.AssemblyInfo.cs
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\obj\Debug\net5.0\PP_LABORATORIO_2_2020.csproj.CoreCompileInputs.cache
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\obj\Debug\net5.0\PP_LABORATORIO_2_2020.dll
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\obj\Debug\net5.0\ref\PP_LABORATORIO_2_2020.dll
+C:\Users\caand\Desktop\Modelos_Parciales_2doCtuatri_C#\M_PPL_LB2\PP_LABORATORIO_2_2020\Entidades_PP\PP_LABORATORIO_2_2020\obj\Debug\net5.0\PP_LABORATORIO_2_2020.pdb
